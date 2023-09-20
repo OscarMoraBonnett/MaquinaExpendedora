@@ -1,0 +1,14 @@
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\bin\Debug\net6.0\MaquinaExpendedora.exe
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\bin\Debug\net6.0\MaquinaExpendedora.deps.json
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\bin\Debug\net6.0\MaquinaExpendedora.runtimeconfig.json
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\bin\Debug\net6.0\MaquinaExpendedora.dll
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\bin\Debug\net6.0\MaquinaExpendedora.pdb
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\MaquinaExpendedora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\MaquinaExpendedora.AssemblyInfoInputs.cache
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\MaquinaExpendedora.AssemblyInfo.cs
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\MaquinaExpendedora.csproj.CoreCompileInputs.cache
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\MaquinaExpendedora.dll
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\refint\MaquinaExpendedora.dll
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\MaquinaExpendedora.pdb
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\MaquinaExpendedora.genruntimeconfig.cache
+C:\Users\DarkLine\Documents\Curso.Net\ProyectoMaquinaExpendedora\MaquinaExpendedora\obj\Debug\net6.0\ref\MaquinaExpendedora.dll
